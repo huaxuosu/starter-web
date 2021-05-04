@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Copyright notice
 Sample copy right notice here
+
+## How To Contribute
+Please fork this repository and then issue Pull Requests for review.
